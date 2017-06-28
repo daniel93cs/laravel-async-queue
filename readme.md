@@ -1,4 +1,4 @@
-# Laravel 5.4 Async Queue Driver
+# Laravel 5.4 Async Queue Driver (Support Redis)
 
 ## Push a function/closure to the background.
 
